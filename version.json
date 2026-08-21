@@ -1,9 +1,10 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 3,
-  "latestVersionName": "1.6.9",
-  "title": "UNDER MAINTAINANCE",
-  "message": "AN ERROR OCCURED IN SERVER SO, WE WANT SOME TIME TO RECTIFY THIS, NOTE THIS APP IS FULLY SERVER SIDED.",
-  "UpdateButtonText": "WAIT SOME TIME",
-  "UpdateButtonUrl": "https://t.me/principalofstudying"
+"version": "2.1",
+"title": "update test",
+"NewVersion": "2.1",
+"downloadLink": "https://karthikcinema.rf.gd",
+"changeLogMessage": "test version ",
+"negativebtn": "EXIT",
+"positivebtn": "UPDATE",
+"changelogTitle": "Changelogs"
 }
