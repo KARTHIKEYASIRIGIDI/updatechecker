@@ -1,6 +1,6 @@
 {
-  "showDialog": false,
-  "latestVersionCode": 0,
+  "showDialog": true,
+  "latestVersionCode": 3,
   "latestVersionName": "1.6.9",
   "title": "UPDATE AVAILABLE",
   "message": "Get the newest features and improvements, bug fixed00.",
