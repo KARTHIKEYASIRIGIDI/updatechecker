@@ -1,4 +1,9 @@
 {
-    "latest_version": 2,
-    "download_url": "https://yourappdownlod.link"
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.6.9",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements, bug fixed.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://t.me/dp_mods"
 }
